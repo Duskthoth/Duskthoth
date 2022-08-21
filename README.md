@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there, I`m Andrew Dellamea 👋
 
-<!--
-**Duskthoth/Duskthoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duskthoth&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duskthoth)](https://github.com/anuraghazra/github-readme-stats)
