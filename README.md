@@ -1,11 +1,12 @@
 <div id="header" align="center">
+  <h1> Hi there, I`m Andrew Dellamea 👋 </h1>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400"/>
   
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewdellamea/) 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewdecarvalhodellamea@gmail.com)
 </div>
 
-### Hi there, I`m Andrew Dellamea 👋
+
 
 
 
