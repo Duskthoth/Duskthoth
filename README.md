@@ -26,6 +26,8 @@
   
 [![Stats](https://github-readme-stats.vercel.app/api?username=Duskthoth&theme=nord&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)]()
 
+![Metrics](/metrics.terminal.svg)
+
 </div>
  
 
