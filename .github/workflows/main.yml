@@ -18,5 +18,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_rss: yes
-          plugin_rss_source: https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4410516&q=site:https%3A%2F%2Ffeeds.feedburner.com%2FTheHackersNews%3Fformat%3Dxml
+          plugin_rss_source: https://thehackernews.com/search/label/Vulnerability
           plugin_rss_limit: 6
