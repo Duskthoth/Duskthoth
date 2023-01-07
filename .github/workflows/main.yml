@@ -19,4 +19,4 @@ jobs:
           base: ""
           plugin_rss: yes
           plugin_rss_source: https://feeds.feedburner.com/TheHackersNews
-          plugin_rss_limit: 8
+          plugin_rss_limit: 6
