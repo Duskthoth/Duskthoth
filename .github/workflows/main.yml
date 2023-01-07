@@ -18,5 +18,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_rss: yes
-          plugin_rss_source: https://thehackernews.com/search/label/Vulnerability
+          plugin_rss_source: https://feeds.feedburner.com/TheHackersNews
           plugin_rss_limit: 6
