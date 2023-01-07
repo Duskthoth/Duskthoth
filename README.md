@@ -21,12 +21,13 @@
  - Programming Languages: [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]() [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]() [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]() [![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)]() [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
   
 <div id="secondHeader" align="center">
+![Metrics](/metrics.plugin.rss.svg)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duskthoth&layout=compact&theme=nord&hide_border=true&size=200)]()
   
 [![Stats](https://github-readme-stats.vercel.app/api?username=Duskthoth&theme=nord&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)]()
 
-![Metrics](/metrics.plugin.rss.svg)
+
 
 </div>
  
