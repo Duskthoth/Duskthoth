@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: userfetch
-        uses: userfetch/userfetch-action@v1.1
+        uses: userfetch/userfetch-action@v1
         with:
           # path is relative to project root
           config: 'path/to/config.mjs'   # input
