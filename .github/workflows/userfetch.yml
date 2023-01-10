@@ -23,7 +23,7 @@ jobs:
           svg: 'path/to/card.svg'        # output
         env:
           # the token you created in step 2
-          github_token: ${{ GH_PAT }}
+          github_token: ${{ secrets.GH_PAT }}
 
       - name: commit
         run: |
