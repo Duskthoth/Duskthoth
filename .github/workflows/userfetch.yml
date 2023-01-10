@@ -19,8 +19,8 @@ jobs:
         uses: userfetch/userfetch-action@v1
         with:
           # path is relative to project root
-          config: 'path/to/config.mjs'   # input
-          svg: 'path/to/card.svg'        # output
+          config: '/config.mjs'   # input
+          svg: '/card.svg'        # output
         env:
           # the token you created in step 2
           github_token: ${{ secrets.GH_PAT }}
