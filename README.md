@@ -24,7 +24,7 @@
   
 <div id="secondHeader" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duskthoth&layout=compact&theme=nord&hide_border=true&size=200)]() [![Stats](https://github-readme-stats.vercel.app/api?username=Duskthoth&theme=nord&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)]()
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Duskthoth&layout=compact&theme=nord&hide_border=true&size=200)]() [![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Duskthoth&theme=nord&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)]()
 
 ![GitHub Snake dark](https://github.com/Duskthoth/Duskthoth/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
