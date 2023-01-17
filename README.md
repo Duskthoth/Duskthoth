@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1> Hi there, I`m Andrew Dellamea 👋 </h1>
+  <h1> Hi there, I'm Andrew Dellamea 👋 </h1>
   
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>   ![Metrics](/metrics.plugin.rss.svg)
   
