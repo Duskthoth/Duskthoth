@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Fortinet Issues Patches for 40 Flaws Affecting FortiWeb, FortiOS, FortiNAC, and FortiProxy</div>
+                                <div class="date">19 Feb 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Twitter Limits SMS-Based 2-Factor Authentication to Blue Subscribers Only</div>
                                 <div class="date">18 Feb 2023</div>
                             </div>
@@ -57,15 +66,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Armenian Entities Hit by New Version of OxtaRAT Spying Tool</div>
-                                <div class="date">17 Feb 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">New Mirai Botnet Variant 'V3G4' Exploiting 13 Flaws to Target Linux and IoT Devices</div>
                                 <div class="date">17 Feb 2023</div>
                             </div>
                         </div>
