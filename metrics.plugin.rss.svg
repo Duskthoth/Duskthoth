@@ -20,6 +20,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches</div>
+                                <div class="date">13 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">29-Year-Old Ukrainian Cryptojacking Kingpin Arrested for Exploiting Cloud Services</div>
+                                <div class="date">13 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Nation-State Actors Weaponize Ivanti VPN Zero-Days, Deploying 5 Malware Families</div>
                                 <div class="date">12 Jan 2024</div>
                             </div>
@@ -48,24 +66,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Urgent: GitLab Releases Patch for Critical Vulnerabilities - Update ASAP</div>
-                                <div class="date">12 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Cryptominers Targeting Misconfigured Apache Hadoop and Flink with Rootkit in New Attacks</div>
-                                <div class="date">12 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Act Now: CISA Flags Active Exploitation of Microsoft SharePoint Vulnerability </div>
                                 <div class="date">12 Jan 2024</div>
                             </div>
                         </div>
