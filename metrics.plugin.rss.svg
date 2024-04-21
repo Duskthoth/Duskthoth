@@ -20,6 +20,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Palo Alto Networks Discloses More Details on Critical PAN-OS Flaw Under Attack</div>
+                                <div class="date">20 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Critical Update: CrushFTP Zero-Day Flaw Exploited in Targeted Attacks</div>
+                                <div class="date">20 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">BlackTech Targets Tech, Research, and Gov Sectors New 'Deuterbear' Tool</div>
                                 <div class="date">19 Apr 2024</div>
                             </div>
@@ -49,24 +67,6 @@
                             <div class="infos">
                                 <div class="title">Hackers Target Middle East Governments with Evasive "CR4T" Backdoor</div>
                                 <div class="date">19 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">OfflRouter Malware Evades Detection in Ukraine for Almost a Decade</div>
-                                <div class="date">18 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">FIN7 Cybercrime Group Targeting U.S. Auto Industry with Carbanak Backdoor</div>
-                                <div class="date">18 Apr 2024</div>
                             </div>
                         </div>
                     </section>
