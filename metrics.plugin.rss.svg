@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">OilRig Exploits Windows Kernel Flaw in Espionage Campaign Targeting UAE and Gulf</div>
+                                <div class="date">13 Oct 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">FBI Creates Fake Cryptocurrency to Expose Widespread Crypto Market Manipulation</div>
                                 <div class="date">12 Oct 2024</div>
                             </div>
@@ -57,15 +66,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">New Critical GitLab Vulnerability Could Allow Arbitrary CI/CD Pipeline Execution</div>
-                                <div class="date">11 Oct 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation</div>
                                 <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
