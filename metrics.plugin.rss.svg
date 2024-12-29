@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials</div>
+                                <div class="date">28 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign</div>
                                 <div class="date">27 Dec 2024</div>
                             </div>
@@ -58,15 +67,6 @@
                             <div class="infos">
                                 <div class="title">Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization</div>
                                 <div class="date">27 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Brazilian Hacker Charged for Extorting $3.2M in Bitcoin After Breaching 300,000 Accounts</div>
-                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                     </section>
