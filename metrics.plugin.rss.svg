@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hackers Exploit Aviatrix Controller Vulnerability to Deploy Backdoors and Crypto Miners</div>
-                                <div class="date">13 Jan 2025</div>
+                                <div class="title">Microsoft Uncovers macOS Vulnerability CVE-2024-44243 Allowing Rootkit Installation</div>
+                                <div class="date">14 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [13 January]</div>
-                                <div class="date">13 Jan 2025</div>
+                                <div class="title">Google OAuth Vulnerability Exposes Millions via Failed Startup Domains</div>
+                                <div class="date">14 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ransomware on ESXi: The Mechanization of Virtualized Attacks</div>
-                                <div class="date">13 Jan 2025</div>
+                                <div class="title">4 Reasons Your SaaS Attack Surface Can No Longer be Ignored</div>
+                                <div class="date">14 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WordPress Skimmers Evade Detection by Injecting Themselves into Database Tables</div>
-                                <div class="date">13 Jan 2025</div>
+                                <div class="title">Illicit HuiOne Telegram Market Surpasses Hydra, Hits $24 Billion in Crypto Transactions</div>
+                                <div class="date">14 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Expired Domains Allowed Control Over 4,000 Backdoors on Compromised Systems</div>
-                                <div class="date">13 Jan 2025</div>
+                                <div class="title">Zero-Day Vulnerability Suspected in Attacks on Fortinet Firewalls with Exposed Interfaces</div>
+                                <div class="date">14 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Sues Hacking Group Exploiting Azure AI for Harmful Content Creation</div>
-                                <div class="date">11 Jan 2025</div>
+                                <div class="title">Russian-Linked Hackers Target Kazakhstan in Espionage Campaign with HATVIBE Malware</div>
+                                <div class="date">14 Jan 2025</div>
                             </div>
                         </div>
                     </section>
