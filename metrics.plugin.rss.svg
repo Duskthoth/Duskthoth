@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">768 CVEs Exploited in 2024, Reflecting a 20% Increase from 639 in 2023</div>
-                                <div class="date">3 Feb 2025</div>
+                                <div class="title">Malicious Go Package Exploits Module Mirror Caching for Persistent Remote Access</div>
+                                <div class="date">4 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PyPI Introduces Archival Status to Alert Users About Unmaintained Python Packages</div>
-                                <div class="date">3 Feb 2025</div>
+                                <div class="title">Russian Cybercrime Groups Exploiting 7-Zip Flaw to Bypass Windows MotW Protections</div>
+                                <div class="date">4 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [27 February]</div>
-                                <div class="date">3 Feb 2025</div>
+                                <div class="title">North Korean Hackers Deploy FERRET Malware via Fake Job Interviews on macOS</div>
+                                <div class="date">4 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Coyote Malware Expands Reach: Now Targets 1,030 Sites and 73 Financial Institutions</div>
-                                <div class="date">3 Feb 2025</div>
+                                <div class="title">Watch Out For These 8 Cloud Security Shifts in 2025</div>
+                                <div class="date">4 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What Is Attack Surface Management?</div>
-                                <div class="date">3 Feb 2025</div>
+                                <div class="title">Taiwan Bans DeepSeek AI Over National Security Concerns, Citing Data Leakage Risks</div>
+                                <div class="date">4 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Crazy Evil Gang Targets Crypto with StealC, AMOS, and Angel Drainer Malware</div>
-                                <div class="date">3 Feb 2025</div>
+                                <div class="title">AMD SEV-SNP Vulnerability Allows Malicious Microcode Injection with Admin Access</div>
+                                <div class="date">4 Feb 2025</div>
                             </div>
                         </div>
                     </section>
