@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Malicious PyPI Packages Stole Cloud Tokens—Over 14,100 Downloads Before Removal</div>
-                                <div class="date">15 Mar 2025</div>
+                                <div class="title">Apache Tomcat Vulnerability Actively Exploited Just 30 Hours After Public Disclosure</div>
+                                <div class="date">17 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Alleged Israeli LockBit Developer Rostislav Panev Extradited to U.S. for Cybercrime Charges</div>
-                                <div class="date">14 Mar 2025</div>
+                                <div class="title">Unpatched Edimax Camera Flaw Exploited for Mirai Botnet Attacks Since Last Year</div>
+                                <div class="date">17 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GSMA Confirms End-to-End Encryption for RCS, Enabling Secure Cross-Platform Messaging</div>
-                                <div class="date">14 Mar 2025</div>
+                                <div class="title">Cybercriminals Exploit CSS to Evade Spam Filters and Track Email Users' Actions</div>
+                                <div class="date">17 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Live Ransomware Demo: See How Hackers Breach Networks and Demand a Ransom</div>
-                                <div class="date">14 Mar 2025</div>
+                                <div class="title">⚡ THN Weekly Recap: Router Hacks, PyPI Attacks, New Ransomware Decryptor, and More</div>
+                                <div class="date">17 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Most Microsegmentation Projects Fail—And How Andelyn Biosciences Got It Right</div>
-                                <div class="date">14 Mar 2025</div>
+                                <div class="title">SANS Institute Warns of Novel Cloud-Native Ransomware Attacks</div>
+                                <div class="date">17 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New MassJacker Malware Targets Piracy Users, Hijacking Cryptocurrency Transactions</div>
-                                <div class="date">14 Mar 2025</div>
+                                <div class="title">GitHub Action Compromise Puts CI/CD Secrets at Risk in Over 23,000 Repositories</div>
+                                <div class="date">17 Mar 2025</div>
                             </div>
                         </div>
                     </section>
