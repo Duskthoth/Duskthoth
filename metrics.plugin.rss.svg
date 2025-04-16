@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ResolverRAT Campaign Targets Healthcare, Pharma via Phishing and DLL Side-Loading</div>
-                                <div class="date">14 Apr 2025</div>
+                                <div class="title">Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool</div>
+                                <div class="date">15 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Phishing Campaigns Use Real-Time Checks to Validate Victim Emails Before Credential Theft</div>
-                                <div class="date">14 Apr 2025</div>
+                                <div class="title">Critical Apache Roller Vulnerability (CVSS 10.0) Enables Unauthorized Session Persistence</div>
+                                <div class="date">15 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: Windows 0-Day, VPN Exploits, Weaponized AI, Hijacked Antivirus and More</div>
-                                <div class="date">14 Apr 2025</div>
+                                <div class="title">Majority of Browser Extensions Can Access Sensitive Enterprise Data, New Report Finds</div>
+                                <div class="date">15 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cybersecurity in the AI Era: Evolve Faster Than the Threats or Get Left Behind</div>
-                                <div class="date">14 Apr 2025</div>
+                                <div class="title">Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirect Orders</div>
+                                <div class="date">15 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pakistan-Linked Hackers Expand Targets in India with CurlBack RAT and Spark RAT</div>
-                                <div class="date">14 Apr 2025</div>
+                                <div class="title">Crypto Developers Targeted by Python Malware Disguised as Coding Challenges</div>
+                                <div class="date">15 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fortinet Warns Attackers Retain FortiGate Access Post-Patching via SSL-VPN Symlink Exploit</div>
-                                <div class="date">11 Apr 2025</div>
+                                <div class="title">Gladinet’s Triofox and CentreStack Under Active Exploitation via Critical RCE Vulnerability</div>
+                                <div class="date">15 Apr 2025</div>
                             </div>
                         </div>
                     </section>
