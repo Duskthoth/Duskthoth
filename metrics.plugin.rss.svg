@@ -20,6 +20,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Rogue npm Packages Mimic Telegram Bot API to Plant SSH Backdoors on Linux Systems</div>
+                                <div class="date">19 Apr 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">ASUS Confirms Critical Flaw in AiCloud Routers; Users Urged to Update Firmware</div>
+                                <div class="date">19 Apr 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States</div>
                                 <div class="date">18 Apr 2025</div>
                             </div>
@@ -49,24 +67,6 @@
                             <div class="infos">
                                 <div class="title">Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT</div>
                                 <div class="date">18 Apr 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download</div>
-                                <div class="date">18 Apr 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Mustang Panda Targets Myanmar With StarProxy, EDR Bypass, and TONESHELL Updates</div>
-                                <div class="date">17 Apr 2025</div>
                             </div>
                         </div>
                     </section>
