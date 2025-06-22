@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Scattered Spider Behind Cyberattacks on M&amp;S and Co-op, Causing Up to $592M in Damages</div>
+                                <div class="date">21 Jun 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Qilin Ransomware Adds "Call Lawyer" Feature to Pressure Victims for Larger Ransoms</div>
                                 <div class="date">20 Jun 2025</div>
                             </div>
@@ -58,15 +67,6 @@
                             <div class="infos">
                                 <div class="title">200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers</div>
                                 <div class="date">20 Jun 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">New Android Malware Surge Hits Devices via Overlays, Virtualization Fraud, and NFC Theft</div>
-                                <div class="date">19 Jun 2025</div>
                             </div>
                         </div>
                     </section>
