@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,35 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign</div>
-                                <div class="date">2 Aug 2025</div>
+                                <div class="title">NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers</div>
+                                <div class="date">4 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Vietnamese Hackers Use PXA Stealer, Hit 4,000 IPs and Steal 200,000 Passwords Globally</div>
+                                <div class="date">4 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">⚡ Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack &amp; More</div>
+                                <div class="date">4 Aug 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Man-in-the-Middle Attack Prevention Guide</div>
+                                <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -30,7 +57,7 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft</div>
-                                <div class="date">2 Aug 2025</div>
+                                <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,35 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices</div>
-                                <div class="date">2 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection</div>
-                                <div class="date">1 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts</div>
-                                <div class="date">1 Aug 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown</div>
-                                <div class="date">1 Aug 2025</div>
+                                <div class="title">The Wild West of Shadow IT</div>
+                                <div class="date">4 Aug 2025</div>
                             </div>
                         </div>
                     </section>
