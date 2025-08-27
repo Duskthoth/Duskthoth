@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats</div>
-                                <div class="date">25 Aug 2025</div>
+                                <div class="title">Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775</div>
+                                <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Docker Fixes CVE-2025-9074, Critical Container Escape Vulnerability With CVSS Score 9.3</div>
-                                <div class="date">25 Aug 2025</div>
+                                <div class="title">New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station</div>
+                                <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads</div>
-                                <div class="date">25 Aug 2025</div>
+                                <div class="title">MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers</div>
+                                <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits &amp; More</div>
-                                <div class="date">25 Aug 2025</div>
+                                <div class="title">AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals</div>
+                                <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations</div>
-                                <div class="date">25 Aug 2025</div>
+                                <div class="title">ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners</div>
+                                <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing</div>
-                                <div class="date">25 Aug 2025</div>
+                                <div class="title">HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands</div>
+                                <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
                     </section>
