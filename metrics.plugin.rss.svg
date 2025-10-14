@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login</div>
-                                <div class="date">12 Oct 2025</div>
+                                <div class="title">⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel &amp; More</div>
+                                <div class="date">13 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts</div>
-                                <div class="date">11 Oct 2025</div>
+                                <div class="title">Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk</div>
+                                <div class="date">13 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks</div>
-                                <div class="date">11 Oct 2025</div>
+                                <div class="title">Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors</div>
+                                <div class="date">13 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers</div>
-                                <div class="date">10 Oct 2025</div>
+                                <div class="title">Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor</div>
+                                <div class="date">13 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries</div>
-                                <div class="date">10 Oct 2025</div>
+                                <div class="title">Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns</div>
+                                <div class="date">13 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation</div>
-                                <div class="date">10 Oct 2025</div>
+                                <div class="title">New Rust-Based Malware "ChaosBot" Uses Discord Channels to Control Victims' PCs</div>
+                                <div class="date">13 Oct 2025</div>
                             </div>
                         </div>
                     </section>
