@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks</div>
-                                <div class="date">13 Dec 2025</div>
+                                <div class="title">Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats</div>
+                                <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild</div>
-                                <div class="date">13 Dec 2025</div>
+                                <div class="title">FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE</div>
+                                <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads</div>
-                                <div class="date">12 Dec 2025</div>
+                                <div class="title">⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More</div>
+                                <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale</div>
-                                <div class="date">12 Dec 2025</div>
+                                <div class="title">A Browser Extension Risk Guide After the ShadyPanda Campaign</div>
+                                <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work</div>
-                                <div class="date">12 Dec 2025</div>
+                                <div class="title">Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector</div>
+                                <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New React RSC Vulnerabilities Enable DoS and Source Code Exposure</div>
-                                <div class="date">12 Dec 2025</div>
+                                <div class="title">VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption</div>
+                                <div class="date">15 Dec 2025</div>
                             </div>
                         </div>
                     </section>
