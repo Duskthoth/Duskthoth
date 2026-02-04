@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users</div>
-                                <div class="date">2 Feb 2026</div>
+                                <div class="title">Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata</div>
+                                <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link</div>
-                                <div class="date">2 Feb 2026</div>
+                                <div class="title">[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate</div>
+                                <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos</div>
-                                <div class="date">2 Feb 2026</div>
+                                <div class="title">Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package</div>
+                                <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks &amp; New Threats</div>
-                                <div class="date">2 Feb 2026</div>
+                                <div class="title">When Cloud Outages Ripple Across the Internet</div>
+                                <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Securing the Mid-Market Across the Complete Threat Lifecycle</div>
-                                <div class="date">2 Feb 2026</div>
+                                <div class="title">APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks</div>
+                                <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users</div>
-                                <div class="date">2 Feb 2026</div>
+                                <div class="title">Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox</div>
+                                <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
                     </section>
