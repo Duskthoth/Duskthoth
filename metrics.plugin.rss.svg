@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">APT28 Targeted European Entities Using Webhook-Based Macro Malware</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware &amp; More</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How Exposed Endpoints Increase Risk Across LLM Infrastructure</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                     </section>
