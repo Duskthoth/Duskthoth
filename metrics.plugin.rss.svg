@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues</div>
-                                <div class="date">7 Mar 2026</div>
+                                <div class="title">Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model</div>
-                                <div class="date">7 Mar 2026</div>
+                                <div class="title">UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India</div>
-                                <div class="date">6 Mar 2026</div>
+                                <div class="title">⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack &amp; Vibe-Coded Malware</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT</div>
-                                <div class="date">6 Mar 2026</div>
+                                <div class="title">Can the Security Platform Finally Deliver for the Mid-Market?</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity</div>
-                                <div class="date">6 Mar 2026</div>
+                                <div class="title">Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor</div>
-                                <div class="date">6 Mar 2026</div>
+                                <div class="title">Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                     </section>
