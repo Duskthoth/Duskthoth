@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks</div>
-                                <div class="date">21 Mar 2026</div>
+                                <div class="title">North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware</div>
+                                <div class="date">23 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager</div>
-                                <div class="date">21 Mar 2026</div>
+                                <div class="title">⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers &amp; More</div>
+                                <div class="date">23 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages</div>
-                                <div class="date">21 Mar 2026</div>
+                                <div class="title">We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them</div>
+                                <div class="date">23 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026</div>
-                                <div class="date">21 Mar 2026</div>
+                                <div class="title">Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware</div>
+                                <div class="date">23 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets</div>
-                                <div class="date">20 Mar 2026</div>
+                                <div class="title">Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper</div>
+                                <div class="date">23 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure</div>
-                                <div class="date">20 Mar 2026</div>
+                                <div class="title">Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems</div>
+                                <div class="date">23 Mar 2026</div>
                             </div>
                         </div>
                     </section>
