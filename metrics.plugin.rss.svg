@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data</div>
-                                <div class="date">18 Apr 2026</div>
+                                <div class="title">SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files</div>
+                                <div class="date">20 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims</div>
-                                <div class="date">18 Apr 2026</div>
+                                <div class="title">⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge &amp; More</div>
+                                <div class="date">20 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet</div>
-                                <div class="date">18 Apr 2026</div>
+                                <div class="title">Why Most AI Deployments Stall After the Demo</div>
+                                <div class="date">20 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched</div>
-                                <div class="date">17 Apr 2026</div>
+                                <div class="title">Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain</div>
+                                <div class="date">20 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul</div>
-                                <div class="date">17 Apr 2026</div>
+                                <div class="title">Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems</div>
+                                <div class="date">20 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions</div>
-                                <div class="date">17 Apr 2026</div>
+                                <div class="title">Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials</div>
+                                <div class="date">20 Apr 2026</div>
                             </div>
                         </div>
                     </section>
