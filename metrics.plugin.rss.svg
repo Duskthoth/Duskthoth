@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files</div>
-                                <div class="date">20 Apr 2026</div>
+                                <div class="title">SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation</div>
+                                <div class="date">21 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge &amp; More</div>
-                                <div class="date">20 Apr 2026</div>
+                                <div class="title">22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters</div>
+                                <div class="date">21 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Most AI Deployments Stall After the Demo</div>
-                                <div class="date">20 Apr 2026</div>
+                                <div class="title">Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023</div>
+                                <div class="date">21 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain</div>
-                                <div class="date">20 Apr 2026</div>
+                                <div class="title">5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time</div>
+                                <div class="date">21 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems</div>
-                                <div class="date">20 Apr 2026</div>
+                                <div class="title">NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs</div>
+                                <div class="date">21 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials</div>
-                                <div class="date">20 Apr 2026</div>
+                                <div class="title">No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks</div>
+                                <div class="date">21 Apr 2026</div>
                             </div>
                         </div>
                     </section>
