@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack</div>
-                                <div class="date">27 Apr 2026</div>
+                                <div class="title">Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push</div>
+                                <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking &amp; More</div>
-                                <div class="date">27 Apr 2026</div>
+                                <div class="title">Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign</div>
+                                <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side</div>
-                                <div class="date">27 Apr 2026</div>
+                                <div class="title">VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi</div>
+                                <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks</div>
-                                <div class="date">27 Apr 2026</div>
+                                <div class="title">Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About</div>
+                                <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware</div>
-                                <div class="date">27 Apr 2026</div>
+                                <div class="title">Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE</div>
+                                <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud</div>
-                                <div class="date">27 Apr 2026</div>
+                                <div class="title">After Mythos: New Playbooks For a Zero-Window Era</div>
+                                <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
                     </section>
