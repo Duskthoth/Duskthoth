@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak</div>
-                                <div class="date">10 May 2026</div>
+                                <div class="title">TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack</div>
+                                <div class="date">11 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now</div>
-                                <div class="date">9 May 2026</div>
+                                <div class="title">cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor</div>
+                                <div class="date">11 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms</div>
-                                <div class="date">8 May 2026</div>
+                                <div class="title">Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation</div>
+                                <div class="date">11 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads</div>
-                                <div class="date">8 May 2026</div>
+                                <div class="title">⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More</div>
+                                <div class="date">11 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches</div>
-                                <div class="date">8 May 2026</div>
+                                <div class="title">Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room</div>
+                                <div class="date">11 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise</div>
-                                <div class="date">8 May 2026</div>
+                                <div class="title">Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads</div>
+                                <div class="date">11 May 2026</div>
                             </div>
                         </div>
                     </section>
