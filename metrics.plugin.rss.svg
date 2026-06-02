@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices</div>
-                                <div class="date">31 May 2026</div>
+                                <div class="title">Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm</div>
+                                <div class="date">1 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation</div>
-                                <div class="date">30 May 2026</div>
+                                <div class="title">⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More</div>
+                                <div class="date">1 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface</div>
-                                <div class="date">29 May 2026</div>
+                                <div class="title">China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic &amp; Taiwan</div>
+                                <div class="date">1 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit</div>
-                                <div class="date">29 May 2026</div>
+                                <div class="title">The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools</div>
+                                <div class="date">1 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks </div>
-                                <div class="date">29 May 2026</div>
+                                <div class="title">OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack</div>
+                                <div class="date">1 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks</div>
-                                <div class="date">29 May 2026</div>
+                                <div class="title">Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts</div>
+                                <div class="date">1 Jun 2026</div>
                             </div>
                         </div>
                     </section>
