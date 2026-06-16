@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication</div>
-                                <div class="date">13 Jun 2026</div>
+                                <div class="title">Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails</div>
+                                <div class="date">15 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals</div>
-                                <div class="date">13 Jun 2026</div>
+                                <div class="title">North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels</div>
+                                <div class="date">15 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit</div>
-                                <div class="date">12 Jun 2026</div>
+                                <div class="title">LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers</div>
+                                <div class="date">15 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing</div>
-                                <div class="date">12 Jun 2026</div>
+                                <div class="title">One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes</div>
+                                <div class="date">15 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade</div>
-                                <div class="date">12 Jun 2026</div>
+                                <div class="title">⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More</div>
+                                <div class="date">15 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code</div>
-                                <div class="date">12 Jun 2026</div>
+                                <div class="title">The Onboarding Password Mistake That Creates Unnecessary Risk</div>
+                                <div class="date">15 Jun 2026</div>
                             </div>
                         </div>
                     </section>
