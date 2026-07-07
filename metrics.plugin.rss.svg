@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case</div>
-                                <div class="date">4 Jul 2026</div>
+                                <div class="title">Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations</div>
+                                <div class="date">6 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign</div>
-                                <div class="date">4 Jul 2026</div>
+                                <div class="title">16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems</div>
+                                <div class="date">6 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices</div>
-                                <div class="date">3 Jul 2026</div>
+                                <div class="title">Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure</div>
+                                <div class="date">6 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android</div>
-                                <div class="date">3 Jul 2026</div>
+                                <div class="title">⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More</div>
+                                <div class="date">6 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New Avalon Malware Framework Packs CrownX Ransomware Capabilities</div>
-                                <div class="date">3 Jul 2026</div>
+                                <div class="title">How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions</div>
+                                <div class="date">6 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets</div>
-                                <div class="date">3 Jul 2026</div>
+                                <div class="title">Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT</div>
+                                <div class="date">6 Jul 2026</div>
                             </div>
                         </div>
                     </section>
