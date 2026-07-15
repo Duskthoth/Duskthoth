@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling</div>
-                                <div class="date">13 Jul 2026</div>
+                                <div class="title">11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot</div>
+                                <div class="date">14 Jul 2026</div>
                             </div>
                         </div>
                     </section>
