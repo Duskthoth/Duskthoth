@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware</div>
-                                <div class="date">20 Jul 2026</div>
+                                <div class="title">Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs</div>
+                                <div class="date">21 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign</div>
-                                <div class="date">20 Jul 2026</div>
+                                <div class="title">AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code</div>
+                                <div class="date">21 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050</div>
-                                <div class="date">20 Jul 2026</div>
+                                <div class="title">Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities</div>
+                                <div class="date">21 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More</div>
-                                <div class="date">20 Jul 2026</div>
+                                <div class="title">Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC</div>
+                                <div class="date">21 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine</div>
-                                <div class="date">20 Jul 2026</div>
+                                <div class="title">Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access</div>
+                                <div class="date">21 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mythos Didn't Break Your Security Program. Your Exposure Window Could.</div>
-                                <div class="date">20 Jul 2026</div>
+                                <div class="title">Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities</div>
+                                <div class="date">21 Jul 2026</div>
                             </div>
                         </div>
                     </section>
