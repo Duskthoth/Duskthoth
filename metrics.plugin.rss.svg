@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs</div>
-                                <div class="date">21 Jul 2026</div>
+                                <div class="title">GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier</div>
+                                <div class="date">22 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code</div>
-                                <div class="date">21 Jul 2026</div>
+                                <div class="title">Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs</div>
+                                <div class="date">22 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities</div>
-                                <div class="date">21 Jul 2026</div>
+                                <div class="title">Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data</div>
+                                <div class="date">22 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC</div>
-                                <div class="date">21 Jul 2026</div>
+                                <div class="title">Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication</div>
+                                <div class="date">22 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access</div>
-                                <div class="date">21 Jul 2026</div>
+                                <div class="title">The Fastest Path to AI Adoption Runs Through Security</div>
+                                <div class="date">22 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities</div>
-                                <div class="date">21 Jul 2026</div>
+                                <div class="title">OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark</div>
+                                <div class="date">22 Jul 2026</div>
                             </div>
                         </div>
                     </section>
