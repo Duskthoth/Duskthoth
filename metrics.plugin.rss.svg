@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development</div>
-                                <div class="date">10 Aug 2026</div>
+                                <div class="title">Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack</div>
+                                <div class="date">11 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw</div>
-                                <div class="date">10 Aug 2026</div>
+                                <div class="title">Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing</div>
+                                <div class="date">11 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors</div>
-                                <div class="date">10 Aug 2026</div>
+                                <div class="title">Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client</div>
+                                <div class="date">11 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development</div>
-                                <div class="date">10 Aug 2026</div>
+                                <div class="title">Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands</div>
+                                <div class="date">11 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA</div>
-                                <div class="date">10 Aug 2026</div>
+                                <div class="title">Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE</div>
+                                <div class="date">11 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore</div>
-                                <div class="date">10 Aug 2026</div>
+                                <div class="title">DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt</div>
+                                <div class="date">11 Aug 2026</div>
                             </div>
                         </div>
                     </section>
