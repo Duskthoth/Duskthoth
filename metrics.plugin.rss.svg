@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects</div>
-                                <div class="date">17 Aug 2026</div>
+                                <div class="title">Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps</div>
+                                <div class="date">18 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection</div>
-                                <div class="date">17 Aug 2026</div>
+                                <div class="title">Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets</div>
+                                <div class="date">18 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads</div>
-                                <div class="date">17 Aug 2026</div>
+                                <div class="title">Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000</div>
+                                <div class="date">18 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic</div>
-                                <div class="date">17 Aug 2026</div>
+                                <div class="title">AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files</div>
+                                <div class="date">18 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More</div>
-                                <div class="date">17 Aug 2026</div>
+                                <div class="title">TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks</div>
+                                <div class="date">18 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How MCP Servers Can Expose Enterprise Secrets</div>
-                                <div class="date">17 Aug 2026</div>
+                                <div class="title">One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025</div>
+                                <div class="date">18 Aug 2026</div>
                             </div>
                         </div>
                     </section>
