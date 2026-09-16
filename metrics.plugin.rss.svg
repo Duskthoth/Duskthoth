@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing</div>
-                                <div class="date">14 Sept 2026</div>
+                                <div class="title">KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens</div>
+                                <div class="date">15 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials</div>
-                                <div class="date">14 Sept 2026</div>
+                                <div class="title">Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists</div>
+                                <div class="date">15 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports</div>
-                                <div class="date">14 Sept 2026</div>
+                                <div class="title">BambooToken Malware Uses MQTT to Control Windows and Linux Systems</div>
+                                <div class="date">15 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries</div>
-                                <div class="date">14 Sept 2026</div>
+                                <div class="title">Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds</div>
+                                <div class="date">15 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution</div>
-                                <div class="date">14 Sept 2026</div>
+                                <div class="title">Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point</div>
+                                <div class="date">15 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits</div>
-                                <div class="date">14 Sept 2026</div>
+                                <div class="title">Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers</div>
+                                <div class="date">15 Sept 2026</div>
                             </div>
                         </div>
                     </section>
