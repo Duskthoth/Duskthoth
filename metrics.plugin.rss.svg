@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root</div>
-                                <div class="date">18 Sept 2026</div>
+                                <div class="title">Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws</div>
+                                <div class="date">19 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution</div>
-                                <div class="date">18 Sept 2026</div>
+                                <div class="title">Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar</div>
+                                <div class="date">19 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2</div>
-                                <div class="date">18 Sept 2026</div>
+                                <div class="title">Identity Visibility in 2026: The Foundation of Identity Security</div>
+                                <div class="date">19 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation</div>
-                                <div class="date">18 Sept 2026</div>
+                                <div class="title">SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE</div>
+                                <div class="date">19 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.</div>
-                                <div class="date">18 Sept 2026</div>
+                                <div class="title">Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild</div>
+                                <div class="date">19 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents</div>
-                                <div class="date">18 Sept 2026</div>
+                                <div class="title">Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up</div>
+                                <div class="date">19 Sept 2026</div>
                             </div>
                         </div>
                     </section>
