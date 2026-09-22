@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws</div>
-                                <div class="date">19 Sept 2026</div>
+                                <div class="title">Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR</div>
+                                <div class="date">21 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar</div>
-                                <div class="date">19 Sept 2026</div>
+                                <div class="title">Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto</div>
+                                <div class="date">21 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Identity Visibility in 2026: The Foundation of Identity Security</div>
-                                <div class="date">19 Sept 2026</div>
+                                <div class="title">Google Fined €403 Million Over GDPR Violations Tied to Location Data</div>
+                                <div class="date">21 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE</div>
-                                <div class="date">19 Sept 2026</div>
+                                <div class="title">⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks</div>
+                                <div class="date">21 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild</div>
-                                <div class="date">19 Sept 2026</div>
+                                <div class="title">TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data</div>
+                                <div class="date">21 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up</div>
-                                <div class="date">19 Sept 2026</div>
+                                <div class="title">ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure</div>
+                                <div class="date">21 Sept 2026</div>
                             </div>
                         </div>
                     </section>
