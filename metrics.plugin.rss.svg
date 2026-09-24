@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks</div>
-                                <div class="date">22 Sept 2026</div>
+                                <div class="title">Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry</div>
+                                <div class="date">23 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers</div>
-                                <div class="date">22 Sept 2026</div>
+                                <div class="title">A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You</div>
+                                <div class="date">23 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials</div>
-                                <div class="date">22 Sept 2026</div>
+                                <div class="title">MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key</div>
+                                <div class="date">23 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises</div>
-                                <div class="date">22 Sept 2026</div>
+                                <div class="title">This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move</div>
+                                <div class="date">23 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials</div>
-                                <div class="date">22 Sept 2026</div>
+                                <div class="title">Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI</div>
+                                <div class="date">23 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates</div>
-                                <div class="date">22 Sept 2026</div>
+                                <div class="title">New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control</div>
+                                <div class="date">23 Sept 2026</div>
                             </div>
                         </div>
                     </section>
