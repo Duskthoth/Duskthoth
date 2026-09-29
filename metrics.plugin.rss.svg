@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation</div>
-                                <div class="date">27 Sept 2026</div>
+                                <div class="title">Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks</div>
+                                <div class="date">28 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials</div>
-                                <div class="date">26 Sept 2026</div>
+                                <div class="title">Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks</div>
+                                <div class="date">28 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells</div>
-                                <div class="date">26 Sept 2026</div>
+                                <div class="title">IAM for AI agents: A Practical Enterprise Framework</div>
+                                <div class="date">28 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zero Trust for AI Agents Starts With Fixing Zero Visibility</div>
-                                <div class="date">26 Sept 2026</div>
+                                <div class="title">Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M</div>
+                                <div class="date">28 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link</div>
-                                <div class="date">26 Sept 2026</div>
+                                <div class="title">RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims</div>
+                                <div class="date">28 Sept 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild</div>
-                                <div class="date">26 Sept 2026</div>
+                                <div class="title">⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats</div>
+                                <div class="date">28 Sept 2026</div>
                             </div>
                         </div>
                     </section>
