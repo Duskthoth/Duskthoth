@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes</div>
-                                <div class="date">5 Oct 2026</div>
+                                <div class="title">Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes</div>
+                                <div class="date">6 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests</div>
-                                <div class="date">5 Oct 2026</div>
+                                <div class="title">Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan</div>
+                                <div class="date">6 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Credential Layer Is Expanding Faster Than Security Teams Can See It</div>
-                                <div class="date">5 Oct 2026</div>
+                                <div class="title">LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings</div>
+                                <div class="date">6 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2</div>
-                                <div class="date">5 Oct 2026</div>
+                                <div class="title">Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies</div>
+                                <div class="date">6 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access</div>
-                                <div class="date">5 Oct 2026</div>
+                                <div class="title">Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers</div>
+                                <div class="date">6 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE</div>
-                                <div class="date">5 Oct 2026</div>
+                                <div class="title">Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports</div>
+                                <div class="date">6 Oct 2026</div>
                             </div>
                         </div>
                     </section>
