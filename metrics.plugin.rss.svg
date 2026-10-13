@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands</div>
-                                <div class="date">11 Oct 2026</div>
+                                <div class="title">⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More</div>
+                                <div class="date">12 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't</div>
-                                <div class="date">10 Oct 2026</div>
+                                <div class="title">Bring Your Own Agent: Your Employees' Assistants Are Already Logged In</div>
+                                <div class="date">12 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws</div>
-                                <div class="date">10 Oct 2026</div>
+                                <div class="title">Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports</div>
+                                <div class="date">12 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories</div>
-                                <div class="date">9 Oct 2026</div>
+                                <div class="title">Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch</div>
+                                <div class="date">12 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack</div>
-                                <div class="date">9 Oct 2026</div>
+                                <div class="title">Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE</div>
+                                <div class="date">12 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TP-Link Sued by Four More U.S. States Over Router Security and China Ties</div>
-                                <div class="date">9 Oct 2026</div>
+                                <div class="title">CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records</div>
+                                <div class="date">12 Oct 2026</div>
                             </div>
                         </div>
                     </section>
