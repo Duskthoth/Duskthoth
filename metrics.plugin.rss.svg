@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability</div>
-                                <div class="date">14 Oct 2026</div>
+                                <div class="title">Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory</div>
+                                <div class="date">15 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App</div>
-                                <div class="date">14 Oct 2026</div>
+                                <div class="title">ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More</div>
+                                <div class="date">15 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages</div>
-                                <div class="date">14 Oct 2026</div>
+                                <div class="title">Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads</div>
+                                <div class="date">15 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud</div>
-                                <div class="date">14 Oct 2026</div>
+                                <div class="title">Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks</div>
+                                <div class="date">15 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts</div>
-                                <div class="date">14 Oct 2026</div>
+                                <div class="title">Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams</div>
+                                <div class="date">15 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution</div>
-                                <div class="date">14 Oct 2026</div>
+                                <div class="title">NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks</div>
+                                <div class="date">15 Oct 2026</div>
                             </div>
                         </div>
                     </section>
