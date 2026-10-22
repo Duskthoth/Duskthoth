@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</div>
-                                <div class="date">20 Oct 2026</div>
+                                <div class="title">Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases</div>
+                                <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution</div>
-                                <div class="date">20 Oct 2026</div>
+                                <div class="title">LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor</div>
+                                <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA</div>
-                                <div class="date">20 Oct 2026</div>
+                                <div class="title">OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</div>
+                                <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites</div>
-                                <div class="date">20 Oct 2026</div>
+                                <div class="title">PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge</div>
+                                <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election</div>
-                                <div class="date">20 Oct 2026</div>
+                                <div class="title">Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands</div>
+                                <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators</div>
-                                <div class="date">20 Oct 2026</div>
+                                <div class="title">China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors</div>
+                                <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
                     </section>
