@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers</div>
-                                <div class="date">25 Oct 2026</div>
+                                <div class="title">Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking</div>
-                                <div class="date">25 Oct 2026</div>
+                                <div class="title">PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication</div>
-                                <div class="date">25 Oct 2026</div>
+                                <div class="title">Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</div>
-                                <div class="date">24 Oct 2026</div>
+                                <div class="title">⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline</div>
-                                <div class="date">24 Oct 2026</div>
+                                <div class="title">Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads</div>
-                                <div class="date">24 Oct 2026</div>
+                                <div class="title">Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses</div>
+                                <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
                     </section>
