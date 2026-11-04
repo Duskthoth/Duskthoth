@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More</div>
-                                <div class="date">2 Nov 2026</div>
+                                <div class="title">mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity</div>
+                                <div class="date">3 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access</div>
-                                <div class="date">2 Nov 2026</div>
+                                <div class="title">Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes</div>
+                                <div class="date">3 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment</div>
-                                <div class="date">2 Nov 2026</div>
+                                <div class="title">Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft</div>
+                                <div class="date">3 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers</div>
-                                <div class="date">2 Nov 2026</div>
+                                <div class="title">Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access</div>
+                                <div class="date">3 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy</div>
-                                <div class="date">2 Nov 2026</div>
+                                <div class="title">Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges</div>
+                                <div class="date">3 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data</div>
-                                <div class="date">2 Nov 2026</div>
+                                <div class="title">cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes</div>
+                                <div class="date">3 Nov 2026</div>
                             </div>
                         </div>
                     </section>
