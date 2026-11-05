@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity</div>
-                                <div class="date">3 Nov 2026</div>
+                                <div class="title">Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root</div>
+                                <div class="date">4 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes</div>
-                                <div class="date">3 Nov 2026</div>
+                                <div class="title">SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records</div>
+                                <div class="date">4 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft</div>
-                                <div class="date">3 Nov 2026</div>
+                                <div class="title">Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit</div>
+                                <div class="date">4 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access</div>
-                                <div class="date">3 Nov 2026</div>
+                                <div class="title">APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits</div>
+                                <div class="date">4 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges</div>
-                                <div class="date">3 Nov 2026</div>
+                                <div class="title">Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads</div>
+                                <div class="date">4 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes</div>
-                                <div class="date">3 Nov 2026</div>
+                                <div class="title">Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory</div>
+                                <div class="date">4 Nov 2026</div>
                             </div>
                         </div>
                     </section>
