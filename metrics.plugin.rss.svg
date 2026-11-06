@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root</div>
-                                <div class="date">4 Nov 2026</div>
+                                <div class="title">OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux</div>
+                                <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records</div>
-                                <div class="date">4 Nov 2026</div>
+                                <div class="title">Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction</div>
+                                <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit</div>
-                                <div class="date">4 Nov 2026</div>
+                                <div class="title">ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories</div>
+                                <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits</div>
-                                <div class="date">4 Nov 2026</div>
+                                <div class="title">Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out</div>
+                                <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads</div>
-                                <div class="date">4 Nov 2026</div>
+                                <div class="title">OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run</div>
+                                <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory</div>
-                                <div class="date">4 Nov 2026</div>
+                                <div class="title">5 Active Cyber Threats That Put US Enterprises at Risk in October 2026</div>
+                                <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
                     </section>
