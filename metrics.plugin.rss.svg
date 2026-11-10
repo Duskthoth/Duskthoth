@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub</div>
-                                <div class="date">7 Nov 2026</div>
+                                <div class="title">Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time</div>
-                                <div class="date">6 Nov 2026</div>
+                                <div class="title">Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot</div>
-                                <div class="date">6 Nov 2026</div>
+                                <div class="title">Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits</div>
-                                <div class="date">6 Nov 2026</div>
+                                <div class="title">⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It</div>
-                                <div class="date">6 Nov 2026</div>
+                                <div class="title">Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers</div>
-                                <div class="date">6 Nov 2026</div>
+                                <div class="title">Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety</div>
+                                <div class="date">9 Nov 2026</div>
                             </div>
                         </div>
                     </section>
