@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams</div>
+                                <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control</div>
+                                <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts</div>
+                                <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">The Path to AI Autonomy in the SOC</div>
+                                <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws</div>
+                                <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Everything Is a Web Application, Including Your Firewall</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network</div>
+                                <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
                     </section>
