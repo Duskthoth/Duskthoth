@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="254" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms</div>
-                                <div class="date">22 Nov 2026</div>
+                                <div class="title">OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching</div>
+                                <div class="date">24 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps</div>
-                                <div class="date">22 Nov 2026</div>
+                                <div class="title">Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day</div>
+                                <div class="date">24 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats</div>
-                                <div class="date">21 Nov 2026</div>
+                                <div class="title">Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access</div>
+                                <div class="date">23 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys</div>
-                                <div class="date">21 Nov 2026</div>
+                                <div class="title">⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble</div>
+                                <div class="date">23 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access</div>
-                                <div class="date">21 Nov 2026</div>
+                                <div class="title">Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions</div>
+                                <div class="date">23 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +65,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS</div>
-                                <div class="date">21 Nov 2026</div>
+                                <div class="title">Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning</div>
+                                <div class="date">23 Nov 2026</div>
                             </div>
                         </div>
                     </section>
